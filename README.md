@@ -1,3 +1,7 @@
+# Acerca de esta app.
+App creada con react, hace uso de la API de Youtube para buscar y reproducir videos.
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
